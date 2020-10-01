@@ -1,1 +1,2 @@
-# this is a test text file for Sina 
+# this is a test text file for Sina
+# this line is edited for on purpose conflict
