@@ -1,1 +1,3 @@
 # this is a test text file for Sina 
+Shuang added the second line
+Shuang added the third line
