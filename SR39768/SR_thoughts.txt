@@ -1,0 +1,1 @@
+I did not use Git in depth. So for sure there are a lot of stuff to improve. However, I have started to work on it a couple of months ago. It is very reliable and easy version control tool. It is very useful for collaboration as each person can work on their own branch and merge them together.  
