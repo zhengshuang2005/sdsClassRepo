@@ -1,0 +1,3 @@
+I started to use git since I started my PhD four years ago. In our research group, we work on developing an integrated hydraulic fracturing and reservoir simulator. We use git to do version control and use Bitbucket as the storage. We also use Jira for bug tracking.
+
+I think git is an excellent software for programmers. I definitely like it. Without git, I think I will die in handling the merge conflict manually. With the several years experience, I think I am pretty familiar with the basic usage of git such as "git status", "git checkout", "git push/pull", "git add", "git commit", etc. Maybe not very good in the advanced usage, but it would not be a big deal with git cheat sheet and google.
